@@ -1,0 +1,8 @@
+.BurgerApp {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)),
+    url(../../assets/images/bg.jpg);
+  background-size: 100% auto;
+  background-position: 0 0;
+  width: 100%;
+  min-height: 100vh;
+}
